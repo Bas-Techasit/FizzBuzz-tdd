@@ -1,0 +1,13 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest **/*.js"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
